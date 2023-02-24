@@ -1,2 +1,2 @@
-# pong-pygame
-Pong clone coded in Python using Pygame.
+# snake-pygame
+Snake clone coded in Python using Pygame.
